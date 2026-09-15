@@ -1,12 +1,14 @@
 <div align="center">
 
-  <!-- Header Banner -->
+  <!-- Header Banner (Waving Gradient - Neutral High-Contrast) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=200&section=header&text=S%C3%9CLEYMAN%20TOKLU&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Security-Minded%20AI%20Engineer%20%E2%80%A2%20DevSecOps%20%E2%80%A2%20Building%20in%20Public&descAlignY=58&descSize=17&descAlign=50" width="100%" alt="Header Banner" />
 
-  <!-- Animated Dynamic Typing -->
-  <a href="https://github.com/SuleymanToklu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Security-Minded+AI+Engineer+%F0%9F%9B%A1%EF%B8%8F%F0%9F%A4%96;Building+in+Public+%C2%B7+One+Repo+at+a+Time+%F0%9F%9A%80;Autonomous+Agents+%C2%B7+LLMs+%C2%B7+Quantum+ML+%F0%9F%A7%A0;Human-in-the-Loop+Pentesting+%26+Recon+%E2%9A%A1;30+Days+of+AI+Challenge+Completed+%E2%9C%85;Crafting+Tools+with+High-Signal+Outputs+%F0%9F%94%A5" alt="Typing SVG" />
-  </a>
+  <!-- Animated Dynamic Typing (Dual Theme: Dark & Light Adaptive) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Security-Minded+AI+Engineer+%F0%9F%9B%A1%EF%B8%8F%F0%9F%A4%96;Building+in+Public+%C2%B7+One+Repo+at+a+Time+%F0%9F%9A%80;Autonomous+Agents+%C2%B7+LLMs+%C2%B7+Quantum+ML+%F0%9F%A7%A0;Human-in-the-Loop+Pentesting+%26+Recon+%E2%9A%A1;30+Days+of+AI+Challenge+Completed+%E2%9C%85;Crafting+Tools+with+High-Signal+Outputs+%F0%9F%94%A5">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=0369A1&center=true&vCenter=true&width=650&lines=Security-Minded+AI+Engineer+%F0%9F%9B%A1%EF%B8%8F%F0%9F%A4%96;Building+in+Public+%C2%B7+One+Repo+at+a+Time+%F0%9F%9A%80;Autonomous+Agents+%C2%B7+LLMs+%C2%B7+Quantum+ML+%F0%9F%A7%A0;Human-in-the-Loop+Pentesting+%26+Recon+%E2%9A%A1;30+Days+of+AI+Challenge+Completed+%E2%9C%85;Crafting+Tools+with+High-Signal+Outputs+%F0%9F%94%A5">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=0369A1&center=true&vCenter=true&width=650&lines=Security-Minded+AI+Engineer+%F0%9F%9B%A1%EF%B8%8F%F0%9F%A4%96;Building+in+Public+%C2%B7+One+Repo+at+a+Time+%F0%9F%9A%80;Autonomous+Agents+%C2%B7+LLMs+%C2%B7+Quantum+ML+%F0%9F%A7%A0;Human-in-the-Loop+Pentesting+%26+Recon+%E2%9A%A1;30+Days+of+AI+Challenge+Completed+%E2%9C%85;Crafting+Tools+with+High-Signal+Outputs+%F0%9F%94%A5" alt="Typing SVG" />
+  </picture>
 
   <br/>
 
@@ -17,7 +19,7 @@
     <a href="#-tech-stack--tooling">Tech Stack</a> •
     <a href="#-the-30daysofai-sprint">#30DaysOfAI</a> •
     <a href="#-architecture--pentest-cli">Architecture</a> •
-    <a href="#-github-metrics--analytics">Stats</a> •
+    <a href="#-github-metrics--activity">Stats</a> •
     <a href="#-t%C3%BCrk%C3%A7e-%C3%B6zet">Türkçe 🇹🇷</a>
   </p>
 
@@ -85,39 +87,6 @@ suleyman@devsecops-lab:~$ cat core_philosophy.json
 
 ---
 
-### 🚀 Featured Repositories
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" valign="top">
-        <a href="https://github.com/SuleymanToklu/pentest-cli">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuleymanToklu&repo=pentest-cli&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=34d399" width="100%" alt="pentest-cli Pin" />
-        </a>
-      </td>
-      <td width="50%" valign="top">
-        <a href="https://github.com/SuleymanToklu/attack-surface-mapper">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuleymanToklu&repo=attack-surface-mapper&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=34d399" width="100%" alt="attack-surface-mapper Pin" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <a href="https://github.com/SuleymanToklu/LLM-Comparison-Benchmarking">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuleymanToklu&repo=LLM-Comparison-Benchmarking&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=60a5fa" width="100%" alt="LLM-Comparison-Benchmarking Pin" />
-        </a>
-      </td>
-      <td width="50%" valign="top">
-        <a href="https://github.com/SuleymanToklu/qubit-architect-v2.0">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuleymanToklu&repo=qubit-architect-v2.0&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=a78bfa" width="100%" alt="qubit-architect-v2.0 Pin" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### ⚡ Live CLI Preview — `pentest-cli` & `attack-surface-mapper`
 
 What makes these tools different is **explainable AI execution** combined with **human approval** at every single stage:
@@ -147,16 +116,20 @@ $ pentest-cli --target target.example.com --scope authorized_domains.txt --mode 
 
 ---
 
-### 📦 Key Projects Portfolio
+### 🚀 Featured Projects
 
-| Status | Project | Purpose & Key Innovation | Stack | Link |
+<div align="center">
+
+| Status | Project | Purpose & Key Innovation | Stack | Inspect |
 |:---:|:---|:---|:---|:---:|
-| <img src="https://img.shields.io/badge/Active-34D399?style=flat-square&labelColor=0f172a" alt="Active"/> | **[`pentest-cli`](https://github.com/SuleymanToklu/pentest-cli)** | Human-in-the-loop web pentest orchestrator. LLM generates actionable rationale before any tool executes; strict human approval gate. | `Python` `Security` `LLM` | [Repo ↗](https://github.com/SuleymanToklu/pentest-cli) |
-| <img src="https://img.shields.io/badge/Active-34D399?style=flat-square&labelColor=0f172a" alt="Active"/> | **[`attack-surface-mapper`](https://github.com/SuleymanToklu/attack-surface-mapper)** | Low-noise external attack surface mapping engine providing sharp, actionable insights reported in clear Turkish. | `Python` `OSINT` `Recon` | [Repo ↗](https://github.com/SuleymanToklu/attack-surface-mapper) |
-| <img src="https://img.shields.io/badge/Shipped-60A5FA?style=flat-square&labelColor=0f172a" alt="Shipped"/> | **[`LLM-Comparison-Benchmarking`](https://github.com/SuleymanToklu/LLM-Comparison-Benchmarking)** | Controlled comparative evaluation of top code-generation models implementing an identical Next.js full-stack spec. | `TypeScript` `Python` `LLM` | [Repo ↗](https://github.com/SuleymanToklu/LLM-Comparison-Benchmarking) |
-| <img src="https://img.shields.io/badge/Shipped-60A5FA?style=flat-square&labelColor=0f172a" alt="Shipped"/> | **[`qubit-architect-v2.0`](https://github.com/SuleymanToklu/qubit-architect-v2.0)** | Quantum Machine Learning lab comparing classical and quantum variational circuits side-by-side. | `TypeScript` `React` `QML` | [Repo ↗](https://github.com/SuleymanToklu/qubit-architect-v2.0) |
-| <img src="https://img.shields.io/badge/Active-34D399?style=flat-square&labelColor=0f172a" alt="Active"/> | **[`Claudeinthehouse`](https://github.com/SuleymanToklu/Claudeinthehouse)** | FastAPI + Flutter smart recommendation system analyzing computing workloads, budget, and legacy device specs. | `FastAPI` `Flutter` `Dart` | [Repo ↗](https://github.com/SuleymanToklu/Claudeinthehouse) |
-| <img src="https://img.shields.io/badge/30_Days-A78BFA?style=flat-square&labelColor=0f172a" alt="30 Days"/> | **[`30-Days-30-Projects`](https://github.com/SuleymanToklu/30-Days-30-Projects)** | Central directory and documentation for the #30DaysOfAI sprint. 30 distinct AI/ML apps built and deployed in 30 days. | `Python` `Jupyter` `Streamlit` | [Repo ↗](https://github.com/SuleymanToklu/30-Days-30-Projects) |
+| <img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square" alt="Active"/> | **[`pentest-cli`](https://github.com/SuleymanToklu/pentest-cli)** | Human-in-the-loop web pentest orchestrator. LLM generates actionable rationales before any scan; strict approval gate. | `Python` `Security` `LLM` | [**Repo ↗**](https://github.com/SuleymanToklu/pentest-cli) |
+| <img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square" alt="Active"/> | **[`attack-surface-mapper`](https://github.com/SuleymanToklu/attack-surface-mapper)** | Low-noise external attack surface mapping engine providing sharp, actionable insights reported in clear Turkish. | `Python` `OSINT` `Recon` | [**Repo ↗**](https://github.com/SuleymanToklu/attack-surface-mapper) |
+| <img src="https://img.shields.io/badge/Shipped-0969da?style=flat-square" alt="Shipped"/> | **[`LLM-Comparison-Benchmarking`](https://github.com/SuleymanToklu/LLM-Comparison-Benchmarking)** | Controlled comparative evaluation of top code-generation models implementing an identical Next.js full-stack spec. | `TypeScript` `Python` `LLM` | [**Repo ↗**](https://github.com/SuleymanToklu/LLM-Comparison-Benchmarking) |
+| <img src="https://img.shields.io/badge/Shipped-0969da?style=flat-square" alt="Shipped"/> | **[`qubit-architect-v2.0`](https://github.com/SuleymanToklu/qubit-architect-v2.0)** | Quantum Machine Learning lab comparing classical and quantum variational circuits side-by-side. | `TypeScript` `React` `QML` | [**Repo ↗**](https://github.com/SuleymanToklu/qubit-architect-v2.0) |
+| <img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square" alt="Active"/> | **[`Claudeinthehouse`](https://github.com/SuleymanToklu/Claudeinthehouse)** | FastAPI + Flutter smart recommendation system analyzing computing workloads, budget, and legacy device specs. | `FastAPI` `Flutter` `Dart` | [**Repo ↗**](https://github.com/SuleymanToklu/Claudeinthehouse) |
+| <img src="https://img.shields.io/badge/Sprint-8250df?style=flat-square" alt="Sprint"/> | **[`30-Days-30-Projects`](https://github.com/SuleymanToklu/30-Days-30-Projects)** | Central hub for the #30DaysOfAI sprint. 30 distinct production-ready AI applications built and deployed in 30 days. | `Python` `Jupyter` `Streamlit` | [**Repo ↗**](https://github.com/SuleymanToklu/30-Days-30-Projects) |
+
+</div>
 
 ---
 
@@ -184,22 +157,7 @@ $ pentest-cli --target target.example.com --scope authorized_domains.txt --mode 
 ### 🛡️ Architecture Deep Dive — `pentest-cli`
 
 ```mermaid
-%%{init: {
-  "theme": "base",
-  "themeVariables": {
-    "background": "transparent",
-    "primaryColor": "#1e293b",
-    "primaryTextColor": "#f8fafc",
-    "primaryBorderColor": "#38bdf8",
-    "lineColor": "#60a5fa",
-    "textColor": "#f8fafc",
-    "mainBkg": "#0f172a",
-    "nodeBorder": "#38bdf8",
-    "clusterBkg": "#1e293b",
-    "clusterBorder": "#3b82f6",
-    "fontFamily": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
-  }
-}}%%
+%%{init: {'theme': 'neutral', 'themeVariables': {'fontFamily': 'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace'}}}%%
 flowchart LR
     subgraph S1 ["Phase 1: Authorization"]
       A(["🎯 Scope Target<br/>& Written Auth"])
@@ -236,29 +194,45 @@ flowchart LR
 <div align="center">
 
 #### Languages & Core Scripting
-<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,javascript,cs,java,cpp,dart,bash&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,typescript,javascript,cs,java,cpp,dart,bash&theme=light">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs,java,cpp,dart,bash&theme=dark" alt="Languages" />
-</p>
+</picture>
+
+<br/><br/>
 
 #### AI / ML & Computational Science
-<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv&theme=light">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv&theme=dark" alt="AI and ML" />
+</picture>
+<p>
   <img src="https://img.shields.io/badge/Hugging_Face-Transformers-yellow?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
   <img src="https://img.shields.io/badge/YOLO-Computer_Vision-00FFFF?style=flat-square" alt="YOLO" />
   <img src="https://img.shields.io/badge/Quantum_ML-PennyLane_/_Qiskit-blueviolet?style=flat-square" alt="Quantum ML" />
-  <img src="https://img.shields.io/badge/Algorithms-Genetic_%26_Ant_Colony-00e676?style=flat-square" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/Optimization-Genetic_%26_Ant_Colony-00e676?style=flat-square" alt="Algorithms" />
 </p>
 
 #### Web, Full-Stack & Apps
-<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,react,nextjs,flutter,tailwind,html,css&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,react,nextjs,flutter,tailwind,html,css&theme=light">
   <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,flutter,tailwind,html,css&theme=dark" alt="Web & Mobile" />
+</picture>
+<p>
   <img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Gradio-Prototypes-FF7C00?style=flat-square&logo=gradio&logoColor=white" alt="Gradio" />
 </p>
 
 #### Security, Recon & Infrastructure
-<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,postman&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,postman&theme=light">
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,postman&theme=dark" alt="DevOps and Tools" />
+</picture>
+<p>
   <img src="https://img.shields.io/badge/Recon-Subfinder_·_httpx_·_nmap-38BDF8?style=flat-square" alt="Recon Tools" />
   <img src="https://img.shields.io/badge/Vuln_Scan-Nuclei_·_ffuf-EA4335?style=flat-square" alt="Vuln Tools" />
   <img src="https://img.shields.io/badge/Cryptography-AES_·_SHA_·_ECC-34D399?style=flat-square" alt="Crypto" />
@@ -268,37 +242,25 @@ flowchart LR
 
 ---
 
-### 🏆 GitHub Trophies & Milestones
+### 📊 GitHub Metrics & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuleymanToklu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
----
+  <!-- Real-time Live Metric Badges (Zero External Downtime / 100% Reliable CDN) -->
+  <p>
+    <img src="https://img.shields.io/github/followers/SuleymanToklu?style=for-the-badge&logo=github&labelColor=24292e&color=0969da" alt="Followers" />
+    <img src="https://img.shields.io/badge/Public_Repos-77-blue?style=for-the-badge&logo=git&labelColor=24292e&color=2ea44f" alt="Repos" />
+    <img src="https://img.shields.io/badge/Total_Stars-27%E2%AD%90-f59e0b?style=for-the-badge&logo=apachespark&labelColor=24292e" alt="Stars" />
+    <img src="https://img.shields.io/badge/GitHub-PRO_Account-6f42c1?style=for-the-badge&logo=github&labelColor=24292e" alt="Pro" />
+  </p>
 
-### 📊 GitHub Metrics & Analytics
+  <!-- Streak Stats (Adaptive: Tokyonight on Dark / Clean on Light) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SuleymanToklu&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=SuleymanToklu&theme=default&hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=SuleymanToklu&theme=default&hide_border=true" width="80%" alt="GitHub Streak Stats" />
+  </picture>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=SuleymanToklu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuleymanToklu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=SuleymanToklu&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuleymanToklu&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
@@ -306,23 +268,7 @@ flowchart LR
 ### ⏳ Building in Public Journey
 
 ```mermaid
-%%{init: {
-  "theme": "base",
-  "themeVariables": {
-    "fontFamily": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace",
-    "titleColor": "#38bdf8",
-    "cScale0": "#38bdf8",
-    "cScale1": "#818cf8",
-    "cScale2": "#a78bfa",
-    "cScale3": "#34d399",
-    "cScale4": "#60a5fa",
-    "cScaleLabel0": "#0f172a",
-    "cScaleLabel1": "#0f172a",
-    "cScaleLabel2": "#0f172a",
-    "cScaleLabel3": "#0f172a",
-    "cScaleLabel4": "#0f172a"
-  }
-}}%%
+%%{init: {'theme': 'neutral', 'themeVariables': {'fontFamily': 'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace'}}}%%
 timeline
     title Engineering & Research Milestones
     2022 : Tiheli · Foundational algorithms in C#, C++, and Java
@@ -372,6 +318,6 @@ Temel mottom: *"Sıkıcı ve tekrarlayan süreçleri otomatize et, karar mekaniz
   </p>
   <sub>Engineered with precision for Süleyman Toklu • 2026</sub><br/>
   <a href="https://github.com/SuleymanToklu">
-    <img src="https://komarev.com/ghpvc/?username=SuleymanToklu&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=SuleymanToklu&color=0969da&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </div>
