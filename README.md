@@ -1,41 +1,39 @@
 <div align="center">
 
-  <!-- Header Banner (Waving Gradient - Neutral High-Contrast) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=200&section=header&text=S%C3%9CLEYMAN%20TOKLU&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Security-Minded%20AI%20Engineer%20%E2%80%A2%20DevSecOps%20%E2%80%A2%20Building%20in%20Public&descAlignY=58&descSize=17&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=200&section=header&text=S%C3%9CLEYMAN%20TOKLU&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Security-Minded%20AI%20Engineer%20%C2%B7%20DevSecOps%20%C2%B7%20Applied%20Machine%20Learning&descAlignY=58&descSize=17&descAlign=50" width="100%" alt="Header Banner" />
 
-  <!-- Animated Dynamic Typing (Dual Theme: Dark & Light Adaptive) -->
+  <!-- Animated Dynamic Typing (Zero Emoji) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Security-Minded+AI+Engineer+%F0%9F%9B%A1%EF%B8%8F%F0%9F%A4%96;Building+in+Public+%C2%B7+One+Repo+at+a+Time+%F0%9F%9A%80;Autonomous+Agents+%C2%B7+LLMs+%C2%B7+Quantum+ML+%F0%9F%A7%A0;Human-in-the-Loop+Pentesting+%26+Recon+%E2%9A%A1;30+Days+of+AI+Challenge+Completed+%E2%9C%85;Crafting+Tools+with+High-Signal+Outputs+%F0%9F%94%A5">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=0369A1&center=true&vCenter=true&width=650&lines=Security-Minded+AI+Engineer+%F0%9F%9B%A1%EF%B8%8F%F0%9F%A4%96;Building+in+Public+%C2%B7+One+Repo+at+a+Time+%F0%9F%9A%80;Autonomous+Agents+%C2%B7+LLMs+%C2%B7+Quantum+ML+%F0%9F%A7%A0;Human-in-the-Loop+Pentesting+%26+Recon+%E2%9A%A1;30+Days+of+AI+Challenge+Completed+%E2%9C%85;Crafting+Tools+with+High-Signal+Outputs+%F0%9F%94%A5">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=0369A1&center=true&vCenter=true&width=650&lines=Security-Minded+AI+Engineer+%F0%9F%9B%A1%EF%B8%8F%F0%9F%A4%96;Building+in+Public+%C2%B7+One+Repo+at+a+Time+%F0%9F%9A%80;Autonomous+Agents+%C2%B7+LLMs+%C2%B7+Quantum+ML+%F0%9F%A7%A0;Human-in-the-Loop+Pentesting+%26+Recon+%E2%9A%A1;30+Days+of+AI+Challenge+Completed+%E2%9C%85;Crafting+Tools+with+High-Signal+Outputs+%F0%9F%94%A5" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Security-Minded+AI+Engineer;Applied+Machine+Learning+%26+Computer+Vision;Autonomous+Reconnaissance+%26+Security+Orchestration;Quantum+Machine+Learning+%26+Optimization;30+Days+of+AI+Challenge+Graduate;Human-in-the-Loop+System+Architect">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0369A1&center=true&vCenter=true&width=650&lines=Security-Minded+AI+Engineer;Applied+Machine+Learning+%26+Computer+Vision;Autonomous+Reconnaissance+%26+Security+Orchestration;Quantum+Machine+Learning+%26+Optimization;30+Days+of+AI+Challenge+Graduate;Human-in-the-Loop+System+Architect">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0369A1&center=true&vCenter=true&width=650&lines=Security-Minded+AI+Engineer;Applied+Machine+Learning+%26+Computer+Vision;Autonomous+Reconnaissance+%26+Security+Orchestration;Quantum+Machine+Learning+%26+Optimization;30+Days+of+AI+Challenge+Graduate;Human-in-the-Loop+System+Architect" alt="Typing SVG" />
   </picture>
 
   <br/>
 
   <p align="center">
-    <a href="#-terminal-session">Terminal</a> •
-    <a href="#-featured-projects">Projects</a> •
-    <a href="#-live-cli-preview">CLI Demo</a> •
-    <a href="#-tech-stack--tooling">Tech Stack</a> •
-    <a href="#-the-30daysofai-sprint">#30DaysOfAI</a> •
-    <a href="#-architecture--pentest-cli">Architecture</a> •
-    <a href="#-github-metrics--activity">Stats</a> •
-    <a href="#-t%C3%BCrk%C3%A7e-%C3%B6zet">Türkçe 🇹🇷</a>
+    <a href="#terminal-session">Terminal</a> &bull;
+    <a href="#featured-projects">Projects</a> &bull;
+    <a href="#architecture--pentest-cli">Architecture</a> &bull;
+    <a href="#tech-stack--tooling">Tech Stack</a> &bull;
+    <a href="#the-30-days-of-ai-sprint-spotlight">30DaysOfAI</a> &bull;
+    <a href="#engineering-milestones">Milestones</a> &bull;
+    <a href="#turkish-summary">Turkce Ozet</a>
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Specialization-AI_%2B_Cybersecurity-00f2fe?style=for-the-badge&logo=target&logoColor=white" alt="Specialization" />
-    <img src="https://img.shields.io/badge/Sprint-30DaysOfAI_Done_%E2%9C%94%EF%B8%8F-38ef7d?style=for-the-badge&logo=checkmarx&logoColor=white" alt="30DaysOfAI" />
-    <img src="https://img.shields.io/badge/Location-Turkey_🇹🇷-ff4b2b?style=for-the-badge" alt="Location" />
-    <img src="https://img.shields.io/badge/Education-ISUB%C3%9C_Comp_Eng-6a11cb?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Education" />
-    <img src="https://img.shields.io/badge/Status-Open_for_Collaboration-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Specialization-AI_%2B_Cybersecurity-00f2fe?style=for-the-badge&labelColor=24292e" alt="Specialization" />
+    <img src="https://img.shields.io/badge/Completed-30DaysOfAI_Sprint-38ef7d?style=for-the-badge&labelColor=24292e" alt="30DaysOfAI" />
+    <img src="https://img.shields.io/badge/Education-ISUBU_Comp_Eng-6a11cb?style=for-the-badge&labelColor=24292e" alt="Education" />
+    <img src="https://img.shields.io/badge/Status-Open_for_Collaboration-2ea44f?style=for-the-badge&labelColor=24292e" alt="Status" />
   </p>
 
 </div>
 
 ---
 
-### 🌐 Social & Network Hub
+### Professional Network & Profiles
 
 <div align="center">
 
@@ -51,131 +49,106 @@
   <a href="https://medium.com/@sulotkl" target="_blank">
     <img src="https://img.shields.io/badge/Medium-@sulotkl-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://share.streamlit.io/user/tiheli" target="_blank">
-    <img src="https://img.shields.io/badge/Streamlit_Hub-tiheli-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  </a>
-  <a href="mailto:kermittosuleymane@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:toklusuleyman24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-toklusuleyman24-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
 </div>
 
 ---
 
-### 💻 Terminal Session
+### Terminal Session
 
 ```bash
 suleyman@devsecops-lab:~$ whoami
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  Name: Süleyman Toklu                                                       │
-│  Role: Security-Minded AI Engineer                                          │
-│  Base: Isparta University of Applied Sciences (ISUBÜ), Computer Engineering │
-│  Focus: External Recon Automation, Explainable Pentest AI, Quantum ML       │
-└─────────────────────────────────────────────────────────────────────────────┘
++-----------------------------------------------------------------------------+
+|  Name: Suleyman Toklu                                                       |
+|  Role: Security-Minded AI Engineer                                          |
+|  Base: Isparta University of Applied Sciences (ISUBU), Computer Engineering |
+|  Focus: External Recon Automation, Explainable Pentest AI, Quantum ML       |
++-----------------------------------------------------------------------------+
 
 suleyman@devsecops-lab:~$ cat core_philosophy.json
 {
-  "mission": "Automate the tedious recon steps, keep human in the loop, report clearly.",
+  "mission": "Automate repetitive recon tasks, maintain human control over critical decisions, report with clarity.",
   "active_initiatives": [
-    "pentest-cli -> LLM-assisted, authorized external penetration testing framework",
-    "attack-surface-mapper -> High-signal external attack surface mapping in Turkish",
-    "qubit-architect-v2.0 -> Comparative Quantum ML vs. Classical ML workbench"
+    "pentest-cli -> Human-in-the-loop external penetration testing orchestrator",
+    "smart-caliper -> Sub-pixel computer vision metrology and defect inspection",
+    "qubit-architect-v2.0 -> Benchmark platform for Quantum ML vs Classical ML",
+    "LLM-Comparison-Benchmarking -> Controlled evaluation of code generation models"
   ],
-  "milestone": "#30DaysOfAI -> 30 production AI/ML apps built and shipped in 30 days"
+  "milestone": "30DaysOfAI -> 30 production AI applications shipped across 30 consecutive days"
 }
 ```
 
 ---
 
-### ⚡ Live CLI Preview — `pentest-cli` & `attack-surface-mapper`
+### Featured Projects
 
-What makes these tools different is **explainable AI execution** combined with **human approval** at every single stage:
+<div align="center">
+
+| Status | Project | Focus & Technical Innovation | Stack | Repository |
+|:---:|:---|:---|:---|:---:|
+| <img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square" alt="Active"/> | **[`pentest-cli`](https://github.com/SuleymanToklu/pentest-cli)** | Human-in-the-loop web penetration testing orchestrator. Autonomous LLM justification before scans with strict approval gates. | `Python` `Security` `LLM` | [Repository](https://github.com/SuleymanToklu/pentest-cli) |
+| <img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square" alt="Active"/> | **[`smart-caliper`](https://github.com/SuleymanToklu/smart-caliper)** | Sub-pixel computer vision metrology and automated manufacturing defect inspection engine. | `Python` `OpenCV` `Metrology` | [Repository](https://github.com/SuleymanToklu/smart-caliper) |
+| <img src="https://img.shields.io/badge/Research-0969da?style=flat-square" alt="Research"/> | **[`LLM-Comparison-Benchmarking`](https://github.com/SuleymanToklu/LLM-Comparison-Benchmarking)** | Controlled benchmark comparing code-generation models on architectural constraints, contracts, and adversarial tests. | `Next.js` `TypeScript` `Python` | [Repository](https://github.com/SuleymanToklu/LLM-Comparison-Benchmarking) |
+| <img src="https://img.shields.io/badge/Research-0969da?style=flat-square" alt="Research"/> | **[`QML`](https://github.com/SuleymanToklu/QML)** | Comparative performance evaluation of quantum machine learning algorithms using Qiskit (BSc Thesis). | `Qiskit` `Python` `QML` | [Repository](https://github.com/SuleymanToklu/QML) |
+| <img src="https://img.shields.io/badge/Platform-0969da?style=flat-square" alt="Platform"/> | **[`qubit-architect-v2.0`](https://github.com/SuleymanToklu/qubit-architect-v2.0)** | Interactive web platform for benchmarking hybrid classical and quantum variational machine learning circuits. | `TypeScript` `React` `Next.js` | [Repository](https://github.com/SuleymanToklu/qubit-architect-v2.0) |
+| <img src="https://img.shields.io/badge/Production-8250df?style=flat-square" alt="Production"/> | **[`30DaysOfAI`](https://github.com/SuleymanToklu/30DaysOfAI)** | Central showcase for the 30-day AI marathon. 30 distinct ML and DL models deployed live to Streamlit and Hugging Face. | `Python` `Streamlit` `Gradio` | [Repository](https://github.com/SuleymanToklu/30DaysOfAI) |
+
+</div>
+
+---
+
+### Live CLI Execution Pattern — `pentest-cli`
 
 ```text
 $ pentest-cli --target target.example.com --scope authorized_domains.txt --mode assisted
 
 [*] [PHASE 1: PASSIVE RECON]
-    Running subfinder & assetfinder...
-    [✔] 23 live subdomains discovered across target scope.
+    Running subfinder and asset discovery...
+    [OK] 23 live subdomains discovered across target scope.
 
 [*] [PHASE 2: ACTIVE PROBING]
-    Running httpx & selective port telemetry...
-    [✔] Active web services identified (Ports: 80, 443, 8080, 8443).
+    Running httpx and selective port telemetry...
+    [OK] Active web services identified on ports 80, 443, 8080, 8443.
 
-[🧠 LLM AGENT RATIONALE]:
-    "Discovered legacy admin portal on staging.target.example.com:8443 with TLSv1.0.
-     Recommended scan: Nuclei CVE-2023 / misconfiguration checks.
-     No aggressive denial-of-service or payload fuzzing will be used."
+[*] [LLM AGENT RATIONALE]
+    Identified legacy admin endpoint on staging.target.example.com:8443 with TLSv1.0.
+    Recommended action: Execute selective configuration check template.
+    Strict constraint: Zero aggressive fuzzing or denial-of-service payloads permitted.
 
 [?] ACTION REQUIRED: Approve scan on target port 8443? [y/N]: y
-    [➜] Executing Nuclei security template bundle...
-    [✔] Scan finalized. Zero unauthorized exploits fired.
+    [>] Executing verified template bundle...
+    [OK] Scan finalized. Zero unauthorized exploits executed.
 
-[📄 EXPORT]: Turkish Executive Brief saved -> ./reports/2026-09-pentest-summary.md
+[*] [EXPORT] Executive summary written to ./reports/2026-09-pentest-summary.md
 ```
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-| Status | Project | Purpose & Key Innovation | Stack | Inspect |
-|:---:|:---|:---|:---|:---:|
-| <img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square" alt="Active"/> | **[`pentest-cli`](https://github.com/SuleymanToklu/pentest-cli)** | Human-in-the-loop web pentest orchestrator. LLM generates actionable rationales before any scan; strict approval gate. | `Python` `Security` `LLM` | [**Repo ↗**](https://github.com/SuleymanToklu/pentest-cli) |
-| <img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square" alt="Active"/> | **[`attack-surface-mapper`](https://github.com/SuleymanToklu/attack-surface-mapper)** | Low-noise external attack surface mapping engine providing sharp, actionable insights reported in clear Turkish. | `Python` `OSINT` `Recon` | [**Repo ↗**](https://github.com/SuleymanToklu/attack-surface-mapper) |
-| <img src="https://img.shields.io/badge/Shipped-0969da?style=flat-square" alt="Shipped"/> | **[`LLM-Comparison-Benchmarking`](https://github.com/SuleymanToklu/LLM-Comparison-Benchmarking)** | Controlled comparative evaluation of top code-generation models implementing an identical Next.js full-stack spec. | `TypeScript` `Python` `LLM` | [**Repo ↗**](https://github.com/SuleymanToklu/LLM-Comparison-Benchmarking) |
-| <img src="https://img.shields.io/badge/Shipped-0969da?style=flat-square" alt="Shipped"/> | **[`qubit-architect-v2.0`](https://github.com/SuleymanToklu/qubit-architect-v2.0)** | Quantum Machine Learning lab comparing classical and quantum variational circuits side-by-side. | `TypeScript` `React` `QML` | [**Repo ↗**](https://github.com/SuleymanToklu/qubit-architect-v2.0) |
-| <img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square" alt="Active"/> | **[`Claudeinthehouse`](https://github.com/SuleymanToklu/Claudeinthehouse)** | FastAPI + Flutter smart recommendation system analyzing computing workloads, budget, and legacy device specs. | `FastAPI` `Flutter` `Dart` | [**Repo ↗**](https://github.com/SuleymanToklu/Claudeinthehouse) |
-| <img src="https://img.shields.io/badge/Sprint-8250df?style=flat-square" alt="Sprint"/> | **[`30-Days-30-Projects`](https://github.com/SuleymanToklu/30-Days-30-Projects)** | Central hub for the #30DaysOfAI sprint. 30 distinct production-ready AI applications built and deployed in 30 days. | `Python` `Jupyter` `Streamlit` | [**Repo ↗**](https://github.com/SuleymanToklu/30-Days-30-Projects) |
-
-</div>
-
----
-
-### 🔥 The #30DaysOfAI Challenge Spotlight
-
-> In August-September 2025, I completed **#30DaysOfAI**: 30 distinct AI/ML applications built, trained, and deployed in 30 consecutive days with **zero skips**.
-
-<div align="center">
-
-| Day | Project Name | Technology & Domain | Link |
-|:---:|:---|:---|:---:|
-| **Day 30** | 🛠️ **AI Swiss Army Knife** | Multi-tool AI suite integrating text, image, and tabular intelligence | [Inspect Day 30 ↗](https://github.com/SuleymanToklu/Day30-AI-Swiss-Army-Knife) |
-| **Day 29** | 🎯 **AI-Supported Sniper Lab** | Computer vision targeting analysis & trajectory prediction model | [Inspect Day 29 ↗](https://github.com/SuleymanToklu/Day-29-AI-Supported-Sniper-Lab) |
-| **Day 28** | 🔍 **Transformer Explorer** | Interactive attention map visualizer & transformer decoder explorer | [Inspect Day 28 ↗](https://github.com/SuleymanToklu/Day28-Transformer-Explorer) |
-| **Day 26** | 🎵 **AI Music Studio** | Audio synthesis & neural music genre composition engine | [Inspect Day 26 ↗](https://github.com/SuleymanToklu/Day26-AI-Music-Studio) |
-| **Day 23** | 🎨 **AI Image Generator** | Generative latent diffusion pipeline with interactive prompt tuning | [Inspect Day 23 ↗](https://github.com/SuleymanToklu/Day23-AI-Image-Generator) |
-| **Day 14** | 👁️ **YOLO Object Detection** | High-throughput real-time object detection and spatial classification | [Inspect Day 14 ↗](https://github.com/SuleymanToklu/Day14-YOLO-Object-Detection) |
-
-<sub>👉 Explore all 30 standalone repositories on [30-Days-30-Projects](https://github.com/SuleymanToklu/30-Days-30-Projects)</sub>
-
-</div>
-
----
-
-### 🛡️ Architecture Deep Dive — `pentest-cli`
+### Architecture — `pentest-cli`
 
 ```mermaid
 %%{init: {'theme': 'neutral', 'themeVariables': {'fontFamily': 'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace'}}}%%
 flowchart LR
-    subgraph S1 ["Phase 1: Authorization"]
-      A(["🎯 Scope Target<br/>& Written Auth"])
+    subgraph S1 [Phase 1: Authorization]
+      A[Scope Target & Written Authorization]
     end
 
-    subgraph S2 ["Phase 2: Discovery Engine"]
-      B["🔎 Passive Recon<br/><code>subfinder · assetfinder</code>"]
-      C["⚡ Active Telemetry<br/><code>httpx · nmap</code>"]
+    subgraph S2 [Phase 2: Discovery Engine]
+      B[Passive Reconnaissance<br/>subfinder & assetfinder]
+      C[Active Probing<br/>httpx & nmap telemetry]
     end
 
-    subgraph S3 ["Phase 3: Vulnerability Intel"]
-      D["🛡️ Vuln Assessment<br/><code>nuclei · ffuf</code>"]
-      P{{"🧠 LLM Agent<br/>Why This Tool? Why Now?"}}
+    subgraph S3 [Phase 3: Vulnerability Intel]
+      D[Vulnerability Assessment<br/>nuclei & configuration checks]
+      P[LLM Agent Reasoning<br/>Tool Selection Rationale]
     end
 
-    subgraph S4 ["Phase 4: Human Gate & Report"]
-      H[/"✋ Human-in-the-Loop<br/>Review, Approve, or Modify"/]
-      R[["📄 Executive Report<br/>Turkish Summary & Remediation"]]
+    subgraph S4 [Phase 4: Human Gate & Report]
+      H[Human-in-the-Loop Verification<br/>Operator Review & Approval]
+      R[Executive Report Generation<br/>Findings & Remediation]
     end
 
     A --> B
@@ -189,15 +162,36 @@ flowchart LR
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### The 30 Days of AI Sprint Spotlight
+
+Between August and September 2025, I completed the **30 Days of AI Challenge**: 30 distinct AI/ML applications built, trained, and deployed in 30 consecutive days.
+
+<div align="center">
+
+| Day | Project Name | Focus & Domain | Link |
+|:---:|:---|:---|:---:|
+| **Day 30** | **AI Swiss Army Knife** | Multi-tool AI suite integrating text, image, and tabular intelligence | [Inspect Day 30](https://github.com/SuleymanToklu/Day30-AI-Swiss-Army-Knife) |
+| **Day 29** | **AI-Supported Sniper Lab** | Computer vision targeting analysis and trajectory prediction model | [Inspect Day 29](https://github.com/SuleymanToklu/Day-29-AI-Supported-Sniper-Lab) |
+| **Day 28** | **Transformer Explorer** | Interactive attention map visualizer and transformer decoder explorer | [Inspect Day 28](https://github.com/SuleymanToklu/Day28-Transformer-Explorer) |
+| **Day 26** | **AI Music Studio** | Audio synthesis and neural music genre composition engine | [Inspect Day 26](https://github.com/SuleymanToklu/Day26-AI-Music-Studio) |
+| **Day 23** | **AI Image Generator** | Generative latent diffusion pipeline with interactive prompt tuning | [Inspect Day 23](https://github.com/SuleymanToklu/Day23-AI-Image-Generator) |
+| **Day 14** | **YOLO Object Detection** | High-throughput real-time object detection and spatial classification | [Inspect Day 14](https://github.com/SuleymanToklu/Day14-YOLO-Object-Detection) |
+
+Explore all 30 production applications on the central hub repository: [30DaysOfAI](https://github.com/SuleymanToklu/30DaysOfAI)
+
+</div>
+
+---
+
+### Tech Stack & Tooling
 
 <div align="center">
 
 #### Languages & Core Scripting
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,javascript,cs,java,cpp,dart,bash&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,typescript,javascript,cs,java,cpp,dart,bash&theme=light">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs,java,cpp,dart,bash&theme=dark" alt="Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,javascript,cs,java,cpp,bash&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,typescript,javascript,cs,java,cpp,bash&theme=light">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs,java,cpp,bash&theme=dark" alt="Languages" />
 </picture>
 
 <br/><br/>
@@ -215,11 +209,11 @@ flowchart LR
   <img src="https://img.shields.io/badge/Optimization-Genetic_%26_Ant_Colony-00e676?style=flat-square" alt="Algorithms" />
 </p>
 
-#### Web, Full-Stack & Apps
+#### Web & Applications
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,react,nextjs,flutter,tailwind,html,css&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,react,nextjs,flutter,tailwind,html,css&theme=light">
-  <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,flutter,tailwind,html,css&theme=dark" alt="Web & Mobile" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,react,nextjs,tailwind,html,css&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,react,nextjs,tailwind,html,css&theme=light">
+  <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,tailwind,html,css&theme=dark" alt="Web" />
 </picture>
 <p>
   <img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
@@ -242,19 +236,16 @@ flowchart LR
 
 ---
 
-### 📊 GitHub Metrics & Activity
+### GitHub Metrics & Activity
 
 <div align="center">
 
-  <!-- Real-time Live Metric Badges (Zero External Downtime / 100% Reliable CDN) -->
   <p>
     <img src="https://img.shields.io/github/followers/SuleymanToklu?style=for-the-badge&logo=github&labelColor=24292e&color=0969da" alt="Followers" />
-    <img src="https://img.shields.io/badge/Public_Repos-77-blue?style=for-the-badge&logo=git&labelColor=24292e&color=2ea44f" alt="Repos" />
-    <img src="https://img.shields.io/badge/Total_Stars-27%E2%AD%90-f59e0b?style=for-the-badge&logo=apachespark&labelColor=24292e" alt="Stars" />
+    <img src="https://img.shields.io/badge/Public_Repos-78-blue?style=for-the-badge&logo=git&labelColor=24292e&color=2ea44f" alt="Repos" />
     <img src="https://img.shields.io/badge/GitHub-PRO_Account-6f42c1?style=for-the-badge&logo=github&labelColor=24292e" alt="Pro" />
   </p>
 
-  <!-- Streak Stats (Adaptive: Tokyonight on Dark / Clean on Light) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SuleymanToklu&theme=tokyonight&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=SuleymanToklu&theme=default&hide_border=true">
@@ -265,58 +256,52 @@ flowchart LR
 
 ---
 
-### ⏳ Building in Public Journey
+### Engineering Milestones
 
 ```mermaid
 %%{init: {'theme': 'neutral', 'themeVariables': {'fontFamily': 'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace'}}}%%
 timeline
-    title Engineering & Research Milestones
-    2022 : Tiheli · Foundational algorithms in C#, C++, and Java
-    2024 : Classical Machine Learning · Titanic, Keras Sequential, HospitalAutomation
-    2025 H1 : Cryptography toolkits (AES-SHA256, ECC-512) · GoldCast price forecasting
-    2025 Aug-Sep : #30DaysOfAI Sprint · 30 production AI/ML apps shipped in 30 days
-    2025 Q4 : Quantum Machine Learning (QML Thesis) · Genetic & Ant Colony Optimization
-    2026 : qubit-architect-v2.0 · LLM-Comparison-Benchmarking
-    Current Focus : pentest-cli · attack-surface-mapper · Autonomous Recon Agents
+    title Engineering and Research Timeline
+    2022 : Foundational algorithms and systems programming in C#, C++, and Java
+    2024 : Classical Machine Learning pipelines and data engineering
+    2025 H1 : Applied Cryptography toolkits (AES-SHA256, ECC-512) and time series forecasting
+    2025 Aug-Sep : 30DaysOfAI Sprint with 30 production AI applications shipped
+    2025 Q4 : Quantum Machine Learning thesis research (QML) and combinatorial optimization
+    2026 : qubit-architect-v2.0, smart-caliper, and LLM code benchmark evaluations
+    Current Focus : pentest-cli and autonomous reconnaissance orchestrators
 ```
 
 ---
 
-<details id="türkçe-özet">
-<summary><b>🇹🇷 Türkçe Profil Özeti & Hakkımda (Genişletmek için tıklayın)</b></summary>
+<details id="turkish-summary">
+<summary><b>Turkce Profil Ozeti ve Hakkimda (Genisletmek icin tiklayin)</b></summary>
 <br/>
 
-### Merhaba, Ben Süleyman Toklu 👋
-Isparta Uygulamalı Bilimler Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. **Yapay Zeka (AI/ML)** ve **Siber Güvenlik (DevSecOps & Pentest)** alanlarının kesişiminde çalışıyorum.
+### Hakkimda
+Isparta Uygulamali Bilimler Universitesi Bilgisayar Muhendisligi ogrencisiyim. Yapay Zeka (AI/ML) ve Siber Guvenlik (DevSecOps & Pentest) alanlarinin kesisiminde calisiyorum.
 
-Temel mottom: *"Sıkıcı ve tekrarlayan süreçleri otomatize et, karar mekanizmasında insan denetimini (Human-in-the-Loop) merkezde tut ve çıktıları sade, anlaşılır bir dille sun."*
+Muhendislik yaklasimim: Tekrarlayan ve zaman alan surecleri otomatize etmek, karar aninda insan denetimini (Human-in-the-Loop) merkezde tutmak ve sonuclari acik ve net bir teknik dille sunmaktir.
 
-#### 🌟 Öne Çıkan Çalışmalarım & Ar-Ge Odaklarım:
-1. **`pentest-cli`**: Harici web sızma testlerini aşama aşama yürüten, her tarama öncesinde LLM desteğiyle *"Neden bu araç? Neden şimdi?"* gerekçesini sunan ve insan onayı olmadan hiçbir zararlı/agresif komut çalıştırmayan güvenlik aracı.
-2. **`attack-surface-mapper`**: Yetkili harici saldırı yüzeyini düşük gürültü ve yüksek doğrulukla tarayan, tüm bulguları doğrudan Türkçe raporlayan keşif motoru.
-3. **#30DaysOfAI**: 2025 yılında 30 gün boyunca tek bir gün dahi aksatmadan her gün canlıya alınan 30 farklı yapay zeka & makine öğrenimi projesi.
-4. **Kuantum Makine Öğrenmesi (QML)**: Bitirme tezim kapsamında klasik makine öğrenmesi modelleri ile kuantum değişken devreli sınıflandırıcıların (VQC) başa baş kıyaslandığı araştırma laboratuvarı (`qubit-architect-v2.0`).
-5. **Sezgisel Optimizasyon**: Karınca Kolonisi ve Genetik Algoritmalar ile karmaşık optimizasyon problemlerinin modellenmesi.
+#### One Cikan Calismalar:
+1. **`pentest-cli`**: Harici web sizma testlerini asamali olarak yoneten, her tarama adiminda LLM destegiyle gerekce sunan ve operator onayi olmadan hicbir saldiri komutu calistirmayan guvenlik CLI araci.
+2. **`smart-caliper`**: Alt piksel hassasiyetinde bilgisayarli goru ile parca olcumu ve uretim hata tespiti yapan denetim motoru.
+3. **`QML`**: Qiskit platformu uzerinde Kuantum Makine Ogrenmesi ve klasik ogrenme modellerinin karsilastirmali basarim degerlendirmesi (Lisans Bitirme Tezi).
+4. **`LLM-Comparison-Benchmarking`**: Buyuk dil modellerinin mimari kisitlara ve veri sozlesmelerine uyumunu olcen kontrollu benchmark calismasi.
+5. **30DaysOfAI**: 30 gun boyunca her gun bir yapay zeka uygulamasinin gelistirilip Streamlit ve Hugging Face uzerinde canliya alindigi maraton.
 
-#### 📬 İletişim & Ağ:
+#### Iletisim:
 - LinkedIn: [suleyman-toklu10](https://www.linkedin.com/in/suleyman-toklu10)
 - Kaggle: [tiheli](https://www.kaggle.com/tiheli)
 - Hugging Face: [tiheli](https://huggingface.co/tiheli)
 - Medium: [@sulotkl](https://medium.com/@sulotkl)
-- E-posta: [kermittosuleymane@gmail.com](mailto:kermittosuleymane@gmail.com)
+- E-posta: [toklusuleyman24@gmail.com](mailto:toklusuleyman24@gmail.com)
 
 </details>
 
 ---
 
 <div align="center">
-  <p>
-    <b>Interested in collaborating or discussing AI & Security?</b><br/>
-    <a href="mailto:kermittosuleymane@gmail.com">
-      <img src="https://img.shields.io/badge/Let's_Connect-Get_in_Touch-38bdf8?style=for-the-badge&logo=maildotru&logoColor=white" alt="Get in Touch" />
-    </a>
-  </p>
-  <sub>Engineered with precision for Süleyman Toklu • 2026</sub><br/>
+  <sub>Suleyman Toklu &middot; 2026</sub><br/>
   <a href="https://github.com/SuleymanToklu">
     <img src="https://komarev.com/ghpvc/?username=SuleymanToklu&color=0969da&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
