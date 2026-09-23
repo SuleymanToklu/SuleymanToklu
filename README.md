@@ -91,10 +91,13 @@ suleyman@devsecops-lab:~$ cat core_philosophy.json
 |:---:|:---|:---|:---|:---:|
 | <img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square" alt="Active"/> | **[`pentest-cli`](https://github.com/SuleymanToklu/pentest-cli)** | Human-in-the-loop web penetration testing orchestrator. Autonomous LLM justification before scans with strict approval gates. | `Python` `Security` `LLM` | [Repository](https://github.com/SuleymanToklu/pentest-cli) |
 | <img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square" alt="Active"/> | **[`smart-caliper`](https://github.com/SuleymanToklu/smart-caliper)** | Sub-pixel computer vision metrology and automated manufacturing defect inspection engine. | `Python` `OpenCV` `Metrology` | [Repository](https://github.com/SuleymanToklu/smart-caliper) |
-| <img src="https://img.shields.io/badge/Research-0969da?style=flat-square" alt="Research"/> | **[`LLM-Comparison-Benchmarking`](https://github.com/SuleymanToklu/LLM-Comparison-Benchmarking)** | Controlled benchmark comparing code-generation models on architectural constraints, contracts, and adversarial tests. | `Next.js` `TypeScript` `Python` | [Repository](https://github.com/SuleymanToklu/LLM-Comparison-Benchmarking) |
 | <img src="https://img.shields.io/badge/Research-0969da?style=flat-square" alt="Research"/> | **[`QML`](https://github.com/SuleymanToklu/QML)** | Comparative performance evaluation of quantum machine learning algorithms using Qiskit (BSc Thesis). | `Qiskit` `Python` `QML` | [Repository](https://github.com/SuleymanToklu/QML) |
 | <img src="https://img.shields.io/badge/Platform-0969da?style=flat-square" alt="Platform"/> | **[`qubit-architect-v2.0`](https://github.com/SuleymanToklu/qubit-architect-v2.0)** | Interactive web platform for benchmarking hybrid classical and quantum variational machine learning circuits. | `TypeScript` `React` `Next.js` | [Repository](https://github.com/SuleymanToklu/qubit-architect-v2.0) |
-| <img src="https://img.shields.io/badge/Production-8250df?style=flat-square" alt="Production"/> | **[`30DaysOfAI`](https://github.com/SuleymanToklu/30DaysOfAI)** | Central showcase for the 30-day AI marathon. 30 distinct ML and DL models deployed live to Streamlit and Hugging Face. | `Python` `Streamlit` `Gradio` | [Repository](https://github.com/SuleymanToklu/30DaysOfAI) |
+| <img src="https://img.shields.io/badge/Production-8250df?style=flat-square" alt="Production"/> | **[`30DaysOfAI`](https://github.com/SuleymanToklu/30DaysOfAI)** | Consolidated monorepo of the 30-day AI marathon. 30 distinct ML, CV, NLP and Audio models deployed live to Streamlit and Hugging Face. | `Python` `Streamlit` `Gradio` | [Repository](https://github.com/SuleymanToklu/30DaysOfAI) |
+| <img src="https://img.shields.io/badge/Research-0969da?style=flat-square" alt="Research"/> | **[`LLM-Comparison-Benchmarking`](https://github.com/SuleymanToklu/LLM-Comparison-Benchmarking)** | Controlled benchmark comparing code-generation models on architectural constraints, contracts, and adversarial tests. | `Next.js` `TypeScript` `Python` | [Repository](https://github.com/SuleymanToklu/LLM-Comparison-Benchmarking) |
+| <img src="https://img.shields.io/badge/Curriculum-0969da?style=flat-square" alt="Curriculum"/> | **[`image-processing`](https://github.com/SuleymanToklu/image-processing)** | End-to-end 10-module Computer Vision curriculum from pixel math to Canny, Hough, and Haar cascades. | `Python` `OpenCV` `NumPy` | [Repository](https://github.com/SuleymanToklu/image-processing) |
+| <img src="https://img.shields.io/badge/Curriculum-0969da?style=flat-square" alt="Curriculum"/> | **[`deep-learning-foundations`](https://github.com/SuleymanToklu/deep-learning-foundations)** | Comprehensive Deep Learning curriculum: Multi-class Softmax, CNNs, MobileNetV2 Transfer Learning, and LSTMs. | `TensorFlow` `Keras` `Python` | [Repository](https://github.com/SuleymanToklu/deep-learning-foundations) |
+| <img src="https://img.shields.io/badge/Curriculum-0969da?style=flat-square" alt="Curriculum"/> | **[`ml-foundations-journey`](https://github.com/SuleymanToklu/ml-foundations-journey)** | 8-chapter Machine Learning engineering roadmap: EDA, XGBoost, Optuna tuning, PCA, and SMOTE for imbalanced data. | `Scikit-Learn` `Optuna` `Python` | [Repository](https://github.com/SuleymanToklu/ml-foundations-journey) |
 
 </div>
 
@@ -170,14 +173,14 @@ Between August and September 2025, I completed the **30 Days of AI Challenge**: 
 
 | Day | Project Name | Focus & Domain | Link |
 |:---:|:---|:---|:---:|
-| **Day 30** | **AI Swiss Army Knife** | Multi-tool AI suite integrating text, image, and tabular intelligence | [Inspect Day 30](https://github.com/SuleymanToklu/Day30-AI-Swiss-Army-Knife) |
-| **Day 29** | **AI-Supported Sniper Lab** | Computer vision targeting analysis and trajectory prediction model | [Inspect Day 29](https://github.com/SuleymanToklu/Day-29-AI-Supported-Sniper-Lab) |
-| **Day 28** | **Transformer Explorer** | Interactive attention map visualizer and transformer decoder explorer | [Inspect Day 28](https://github.com/SuleymanToklu/Day28-Transformer-Explorer) |
-| **Day 26** | **AI Music Studio** | Audio synthesis and neural music genre composition engine | [Inspect Day 26](https://github.com/SuleymanToklu/Day26-AI-Music-Studio) |
-| **Day 23** | **AI Image Generator** | Generative latent diffusion pipeline with interactive prompt tuning | [Inspect Day 23](https://github.com/SuleymanToklu/Day23-AI-Image-Generator) |
-| **Day 14** | **YOLO Object Detection** | High-throughput real-time object detection and spatial classification | [Inspect Day 14](https://github.com/SuleymanToklu/Day14-YOLO-Object-Detection) |
+| **Day 30** | **AI Swiss Army Knife** | Multi-tool AI suite integrating text, image, and tabular intelligence | [Inspect Day 30](https://github.com/SuleymanToklu/30DaysOfAI/tree/main/projects/day-30-ai-swiss-army-knife) |
+| **Day 29** | **AI-Supported Sniper Lab** | Computer vision targeting analysis and trajectory prediction model | [Inspect Day 29](https://github.com/SuleymanToklu/30DaysOfAI/tree/main/projects/day-29-ai-supported-sniper-lab) |
+| **Day 28** | **Transformer Explorer** | Interactive attention map visualizer and transformer decoder explorer | [Inspect Day 28](https://github.com/SuleymanToklu/30DaysOfAI/tree/main/projects/day-28-transformer-explorer) |
+| **Day 26** | **AI Music Studio** | Audio synthesis and neural music genre composition engine | [Inspect Day 26](https://github.com/SuleymanToklu/30DaysOfAI/tree/main/projects/day-26-ai-music-studio) |
+| **Day 23** | **AI Image Generator** | Generative latent diffusion pipeline with interactive prompt tuning | [Inspect Day 23](https://github.com/SuleymanToklu/30DaysOfAI/tree/main/projects/day-23-ai-image-generator) |
+| **Day 14** | **YOLO Object Detection** | High-throughput real-time object detection and spatial classification | [Inspect Day 14](https://github.com/SuleymanToklu/30DaysOfAI/tree/main/projects/day-14-yolo-object-detection) |
 
-Explore all 30 production applications on the central hub repository: [30DaysOfAI](https://github.com/SuleymanToklu/30DaysOfAI)
+Explore all 30 production applications on the central monorepo: [30DaysOfAI](https://github.com/SuleymanToklu/30DaysOfAI)
 
 </div>
 
@@ -242,7 +245,7 @@ Explore all 30 production applications on the central hub repository: [30DaysOfA
 
   <p>
     <img src="https://img.shields.io/github/followers/SuleymanToklu?style=for-the-badge&logo=github&labelColor=24292e&color=0969da" alt="Followers" />
-    <img src="https://img.shields.io/badge/Public_Repos-78-blue?style=for-the-badge&logo=git&labelColor=24292e&color=2ea44f" alt="Repos" />
+    <img src="https://img.shields.io/badge/Public_Repos-28-blue?style=for-the-badge&logo=git&labelColor=24292e&color=2ea44f" alt="Repos" />
     <img src="https://img.shields.io/badge/GitHub-PRO_Account-6f42c1?style=for-the-badge&logo=github&labelColor=24292e" alt="Pro" />
   </p>
 
